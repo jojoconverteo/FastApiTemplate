@@ -1,0 +1,12 @@
+col_var_1 = "AccountWeeks"
+col_var_2 = "DataUsage"	
+col_var_3 = "CustServCalls"	
+col_var_4 = "DayMins"	
+col_var_5 = "DayCalls"	
+col_var_6 = "MonthlyCharge"
+col_var_7 = "OverageFee"	
+col_var_8 = "RoamMins"	
+col_var_9 = "ContractRenewal_yes"	
+col_var_10 = "DataPlan_Yes"
+
+name_model = "light_gbm_churn"

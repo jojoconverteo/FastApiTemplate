@@ -1,0 +1,54 @@
+# exemple get
+59	
+2.38	
+1	
+211.9	
+120	
+77.8	
+10.15	
+8.8	
+1	
+1
+
+
+{
+    "AccountWeeks": 59,
+    "DataUsage": 2.38,
+    "CustServCalls": 1,
+    "DayMins": 211.9,
+    "DayCalls": 120,
+    "MonthlyCharge": 77.8,
+    "OverageFee": 10.15,
+    "RoamMins": 8.8,
+    "ContractRenewal_yes": 1,
+    "DataPlan_Yes": 1
+}
+
+{
+"BatchValue" : [
+{
+    "AccountWeeks": 59,
+    "DataUsage": 2.38,
+    "CustServCalls": 1,
+    "DayMins": 211.9,
+    "DayCalls": 120,
+    "MonthlyCharge": 77.8,
+    "OverageFee": 10.15,
+    "RoamMins": 8.8,
+    "ContractRenewal_yes": 1,
+    "DataPlan_Yes": 1
+},
+{
+    "AccountWeeks": 99,
+    "DataUsage": 0.00,
+    "CustServCalls": 2,
+    "DayMins": 128.8,
+    "DayCalls": 86,
+    "MonthlyCharge": 40.0,
+    "OverageFee": 10.20,
+    "RoamMins": 14.1,
+    "ContractRenewal_yes": 1,
+    "DataPlan_Yes": 0
+}
+]
+}
